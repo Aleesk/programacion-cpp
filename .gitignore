@@ -1,0 +1,6 @@
+# Archivos de construcción
+build/
+*.exe
+
+# Carpeta de configuración de VSCode
+.vscode/
